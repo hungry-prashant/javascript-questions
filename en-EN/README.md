@@ -5089,3 +5089,22 @@ The condition within the `if` statement checks whether the value of `!typeof ran
 
 </p>
 </details>
+
+---
+
+###### 156. what will be output of 0==-0 ?
+
+- A: `False`
+- B: `True`
+- C: `NaN`
+- D: `undefined`
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: B
+
+The answer to this will be 'True' because '==' compares only values of operands & -0 on the number timeline have value eqals to 0 as it is a neutral integer.
+
+</p>
+</details>
